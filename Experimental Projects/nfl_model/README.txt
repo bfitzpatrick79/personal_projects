@@ -1,0 +1,1 @@
+Currently working towards a model predicting wins and losses for the NFL.
