@@ -19,6 +19,7 @@ Stage 2 - General Data Ingestion
 
 Stage 3 - ELO Generation
 1.) figure out how to generate ELO scores from beginning of 2000 season.
+    What modules exist? Direct implementation?
 2.) create ELO scores at different levels of granularity.
 
 Stage 4 - Current Season Data
