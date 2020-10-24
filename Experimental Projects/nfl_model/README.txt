@@ -7,4 +7,4 @@ It further outputs an excel file for the full set of data combined into one fram
 
 Data is being scraped from https://www.pro-football-reference.com/
 
-TO DO is over in the project organization
+TO DO is over in the projects tab
