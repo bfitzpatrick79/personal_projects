@@ -1,5 +1,7 @@
 Currently working towards a model predicting wins and losses for the NFL.
 
+'current_predictions.png' displays what the model is seeing in the next time frame.
+
 '01_bear_data_get_test.ipynb' was my testbed for scraping and cleaning the data
 
 '02_general_data_ingest.ipynb' is the program that ingests and cleans all the data from the source. It outputs a set of 32 dataframes as an excel file for each team in the data/ind_team_data folder.
