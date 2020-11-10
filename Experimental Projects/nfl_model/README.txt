@@ -1,6 +1,6 @@
 Currently working towards a model predicting wins and losses for the NFL.
 
-'current_predictions.png' displays what the model is seeing in the next time frame.
+'current_predictions.png' displays what the model is seeing in the next time frame. Past predictions are in the data folder.
 
 '01_bear_data_get_test.ipynb' was my testbed for scraping and cleaning the data
 
